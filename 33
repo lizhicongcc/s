@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>欢迎33公主！！！</title>
+		<script type="text/javascript">
+			function a(){
+				
+			}
+		</script>
+		<style type="text/css">
+			.d1{
+				position: absolute;
+				left: 15%;
+				top: -50px;
+			}
+			div{
+				display: inline-block;
+				//border: 1px solid red;
+				background-color: pink;
+			
+			}
+			#top{
+					position: absolute;
+				
+				top: 1px;
+				width: 1800px;
+				height: 1000px;
+			}
+			#s1{
+				display: inline-block;
+				//border: 1px solid blue;
+				height: 1000px;
+				width: 40px;
+				background-color: pink;
+				position: absolute;
+				top: -20px;
+				left: 250px;
+				z-index: 2;
+			}
+			#s2{
+				display: inline-block;
+				//border: 1px solid blue;
+				height: 1000px;
+				width: 40px;
+				background-color: pink;
+				position: absolute;
+				top: -20px;
+				left: 1300px;
+				z-index: 2;
+			}
+			#s3{
+					display: inline-block;
+				//border: 1px solid blue;
+				height:40px;
+				width:  1200px;
+				background-color: pink;
+				position: absolute;
+				top: 770px;
+				left: 290px;
+				z-index: 2;
+			}
+		</style>
+	</head>
+	<body onload="a();">
+		
+		<div id="top">
+			<span id="s1"> </span>
+		        <span id="s2"> </span>
+		          <span id="s3"> </span>
+			<div class="d1">
+			<img src="img/新建文件夹 (3)/未命名_副本_副本.jpg" />
+		</div>
+		</div>
+		
+		
+	</body>
+</html>
